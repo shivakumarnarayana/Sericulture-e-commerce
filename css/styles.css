@@ -1,0 +1,108 @@
+body {
+  /*background-image:url("../images/logo.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    background-position: center;*/
+}
+
+.bg-navv {
+  background-color: #67b360 !important;
+}
+.float-right-me{
+    float: right;
+}
+
+.my_align {
+    padding: 10px;
+}
+
+.my_btn {
+    background: white;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+}
+.hei {
+    height: 500px;
+}
+
+.slide_1 {
+    padding-top: 60px;
+    
+}
+
+.img-size {
+    height: 30%;
+    width: 30%;
+}
+.footer1{
+    background-color: #67b360 !important;
+    height: 50px;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+.my_align1 {
+    padding-top: 50%
+}
+
+.my-login {
+    padding-top: 10%
+}
+
+#radibutton input[type="radio"] {
+ /* -webkit-appearance:none;*/
+}
+#radibutton{
+    height: auto;
+    width: auto;
+}
+#radibutton:hover{
+    color: #67b360;
+}
+#radibutton input[type="radio"]:checked {
+}
+input[type="submit"]{
+    visibility: hidden;
+}*/
+
+.btn-my {
+    color: #fff;
+  background-color: #67b360;
+  border-color: #67b360;
+}
+
+.bg {
+    background-image:url("images/logo.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    background-position: center;
+}
+
+.my_cartimage {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    background-image: url("../images/9%5D.jpg");
+    
+}
+
+#radi {
+    
+}
+
+.thead-color {
+    background-color: #67b360;
+}
+
+.my_btn_color {
+    background-color:#67b360;
+    
+}
+
+
+
+.my_btn1 {
+    padding: 0px;
+}
